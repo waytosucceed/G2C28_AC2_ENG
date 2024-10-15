@@ -1,0 +1,104 @@
+[
+  {
+    "questionNo": "Q15.",
+    "question": "Which word has a silent 'W'?",
+    "optionsImages": [
+      "./images/option/1.jpg",
+      "./images/option/2.jpg",
+      "./images/option/3.jpg"
+    ],
+    "correct": 1,
+    "optionsAudio": [
+      "./sound/water.mp3",
+      "./sound/wrist.mp3",
+      "./sound/window.mp3"
+    ],
+    "explanation": "The letter 'W' is silent in 'wrist.' The letter 'W' is silent when it comes before 'R' at the start of a word. We just hear 'rist.'"
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "Which word has a silent 'C'?",
+    "optionsImages": [
+      "./images/option/4.jpg",
+      "./images/option/5.jpg",
+      "./images/option/6.jpg"
+    ],
+    "correct": 2,
+    "optionsAudio": [
+      "./sound/cat.mp3",
+      "./sound/cow.mp3",
+      "./sound/scene.mp3"
+    ],
+    "explanation": "In 'scene,' the 'C' is silent. We pronounce it as 'seen.' This often happens when 'SC' comes before 'E' or 'I' at the beginning of a word."
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "Which word has a silent 'C'?",
+    "optionsImages": [
+      "./images/option/7.jpg",
+      "./images/option/8.jpg",
+      "./images/option/9.jpg"
+    ],
+    "correct": 1,
+    "optionsAudio": [
+      "./sound/race.mp3",
+      "./sound/duck.mp3",
+      "./sound/cat.mp3"
+    ],
+    "explanation": "The letter 'C' is silent in words with 'CK.' We just say 'duk.'"
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "Which word has a silent 'B'?",
+    "optionsImages": [
+      "./images/option/10.jpg",
+      "./images/option/11.jpg",
+      "./images/option/12.jpg",
+      "./images/option/13.jpg"
+    ],
+    "correct": 1,
+    "optionsAudio": [
+      "./sound/tube.mp3",
+      "./sound/comb.mp3",
+      "./sound/bake.mp3",
+      "./sound/table.mp3"
+    ],
+    "explanation": "The letter 'B' is silent in 'comb.' The letter 'B' is silent when it comes after 'M.'"
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "Which word has a silent 'W'?",
+    "optionsImages": [
+      "./images/option/14.jpg",
+      "./images/option/15.jpg",
+      "./images/option/16.jpg",
+      "./images/option/17.jpg"
+    ],
+    "correct": 0,
+    "optionsAudio": [
+      "./sound/write.mp3",
+      "./sound/water.mp3",
+      "./sound/window.mp3",
+      "./sound/whale.mp3"
+    ],
+    "explanation": "In 'write,' the 'W' at the beginning is silent. We pronounce it as 'rite.' This is common in words that start with 'wr-.'"
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "Choose the word where 'W' is not silent:",
+    "optionsImages": [
+      "./images/option/18.jpg",
+      "./images/option/19.jpg",
+      "./images/option/20.jpg",
+      "./images/option/21.jpg"
+    ],
+    "correct": 3,
+    "optionsAudio": [
+      "./sound/wreath.mp3",
+      "./sound/wrong.mp3",
+      "./sound/wrap.mp3",
+      "./sound/wish.mp3"
+    ],
+    "explanation": "In 'wish,' we hear the 'W' sound at the beginning. In all the other options (wreath, wrong, wrap), the 'W' is silent because it's followed by 'R.'"
+  }
+]

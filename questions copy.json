@@ -1,0 +1,255 @@
+[
+  {
+      "questionNo": "Q1.",
+      "question": "Fill in the silent letter to complete the word. LAM_",
+      "secondImg":"./images/1.png",
+      "Q_sound": "./sound/lamb.mp3",
+      "options": [
+          { "text": "F" },
+          { "text": "N" },
+          { "text": "B" }
+      ],
+      "correct": 2,
+      "explanation": "The complete spelling is L-A-M-B. The letter B is silent. It means a young sheep."
+  },
+  {
+      "questionNo": "Q2.",
+      "question": "Fill in the silent letter to complete the word. DU_K",
+      "secondImg":"./images/2.png",
+      "Q_sound": "./sound/duck.mp3",
+      "options": [
+          { "text": "K" },
+          { "text": "C" },
+          { "text": "S" }
+      ],
+      "correct": 1,
+      "explanation": "The complete spelling is D-U-C-K. The letter C is silent because it is a combination of a word with 'CK.'"
+  },
+  {
+      "questionNo": "Q3.",
+      "question": "Fill in the silent letter to complete the word. DE_T",
+      "secondImg":"./images/3.png",
+      "Q_sound": "./sound/debt.mp3",
+      "options": [
+          { "text": "B" },
+          { "text": "T" },
+          { "text": "H" }
+      ],
+      "correct": 0,
+      "explanation": "The complete spelling is D-E-B-T. We write the 'B,' but we don’t say it. We just say 'det.'"
+  },
+  {
+      "questionNo": "Q4.",
+      "question": "Fill in the silent letter to complete the word. COM_",
+      "secondImg":"./images/4.png",
+      "Q_sound": "./sound/comb.mp3",
+      "options": [
+          { "text": "N" },
+          { "text": "O" },
+          { "text": "B" }
+      ],
+      "correct": 2,
+      "explanation": "The complete spelling is C-O-M-B. Letter B is silent after 'M.'"
+  },
+  {
+      "questionNo": "Q5.",
+      "question": "Fill in the silent letter to complete the word. _RITE",
+      "secondImg":"./images/5.png",
+      "Q_sound": "./sound/write.mp3",
+      "options": [
+          { "text": "K" },
+          { "text": "W" },
+          { "text": "Y" }
+      ],
+      "correct": 1,
+      "explanation": "The complete spelling is W-R-I-T-E. The letter 'W' is silent when it comes before 'R' at the start of a word."
+  },
+  {
+      "questionNo": "Q6.",
+      "question": "Which letter is silent in the word 'knock'?",
+      "secondImg":"./images/6.png",
+      "Q_sound": "./sound/knock.mp3",
+      "options": [
+          { "text": "K (Starting)" },
+          { "text": "N" },
+          { "text": "O" },
+          { "text": "K (End)" }
+      ],
+      "correct": 0,
+      "explanation": "The letter 'K' is silent at the beginning of 'knock,' just like in 'Knight' and 'Knife.'"
+  },
+  {
+      "questionNo": "Q7.",
+      "question": "In the word 'thumb,' what is the silent letter?",
+      "secondImg":"./images/7.png",
+      "Q_sound": "./sound/thumb.mp3",
+      "options": [
+          { "text": "T" },
+          { "text": "H" },
+          { "text": "U" },
+          { "text": "B" }
+      ],
+      "correct": 3,
+      "explanation": "The letter 'B' is silent in 'thumb,' similar to the word 'Lamb.'"
+  },
+  {
+      "questionNo": "Q8.",
+      "question": "Which word has a silent 'W'?",
+      "options": [
+          { "text": "Water" },
+          { "text": "Wrist" },
+          { "text": "Window" }
+      ],
+      "correct": 1,
+      "explanation": "The letter 'W' is silent in 'wrist.' It's silent when it comes before 'R' at the start of a word, pronounced as 'Rist.'"
+  },
+  {
+      "questionNo": "Q9.",
+      "question": "Which word has a silent 'C'?",
+      "options": [
+          { "text": "Cat" },
+          { "text": "Cow" },
+          { "text": "Scene" }
+      ],
+      "correct": 2,
+      "explanation": "In 'scene,' the 'C' is silent. We pronounce it as 'seen.' This often happens when 'SC' comes before 'E' or 'I.'"
+  },
+  {
+      "questionNo": "Q10.",
+      "question": "Which word has a silent 'C'?",
+      "options": [
+          { "text": "Race" },
+          { "text": "Duck" },
+          { "text": "Cat" }
+      ],
+      "correct": 1,
+      "explanation": "The letter 'C' is silent in words with 'CK.' We just say 'duk.'"
+  },
+  {
+      "questionNo": "Q11.",
+      "question": "Fill in the blank with the correct spelling: The dog likes to chew on a ___.",
+      "options": [
+          { "text": "boan" },
+          { "text": "bown" },
+          { "text": "bon" },
+          { "text": "bone" }
+      ],
+      "correct": 3,
+      "explanation": "'Bone' is the correct spelling. The 'E' at the end is silent, but it makes the 'O' say its name (long 'O' sound)."
+  },
+  {
+      "questionNo": "Q12.",
+      "question": "Which word has a silent 'B'?",
+      "options": [
+          { "text": "Tube" },
+          { "text": "Comb" },
+          { "text": "Bake" },
+          { "text": "Table" }
+      ],
+      "correct": 1,
+      "explanation": "The letter 'B' is silent in 'comb.' It is silent when it comes after 'M.'"
+  },
+  {
+      "questionNo": "Q13.",
+      "question": "Which word has a silent 'W'?",
+      "options": [
+          { "text": "Write" },
+          { "text": "Water" },
+          { "text": "Window" },
+          { "text": "Whale" }
+      ],
+      "correct": 0,
+      "explanation": "In 'write,' the 'W' at the beginning is silent. We pronounce it as 'rite.' This is common in words that start with 'wr-.'"
+  },
+  {
+      "questionNo": "Q14.",
+      "question": "Choose the correct spelling: ",
+      "secondImg":"./images/14.png",
+      "Q_sound": "./sound/wrist.mp3",
+      "options": [
+          { "text": "Rist" },
+          { "text": "Wrist" },
+          { "text": "Wist" },
+          { "text": "Wriste" }
+      ],
+      "correct": 1,
+      "explanation": "'Wrist' is the correct spelling. The 'W' is silent, but it's still part of the correct spelling. This is another example of a word where 'W' is silent before 'R.'"
+  },
+  {
+      "questionNo": "Q15.",
+      "question": "Which letter is silent in the word 'Scene'?",
+      "secondImg":"./images/15.png",
+      "Q_sound": "./sound/scene.mp3",
+      "options": [
+          { "text": "S" },
+          { "text": "C" },
+          { "text": "E" },
+          { "text": "N" }
+      ],
+      "correct": 1,
+      "explanation": "In the word 'scene,' the 'c' after the 's' and before the 'e' is silent. We say 'seen.'"
+  },
+  {
+      "questionNo": "Q16.",
+      "question": "The letter 'C' is silent in the word 'cat.'",
+      "secondImg":"./images/16.png",
+      "Q_sound": "./sound/cat.mp3",
+      "options": [
+          { "text": "True" },
+          { "text": "False" }
+      ],
+      "correct": 1,
+      "explanation": "The letter 'C' is pronounced in 'cat.' It makes the sound of /K/ at the beginning of the word."
+  },
+  {
+      "questionNo": "Q17.",
+      "question": "The letter 'W' is silent in the word 'write.' ",
+      "secondImg":"./images/17.png",
+      "Q_sound": "./sound/write.mp3",
+      "options": [
+          { "text": "True" },
+          { "text": "False" }
+      ],
+      "correct": 0,
+      "explanation": "The letter 'W' is silent in 'write.' The letter 'W' is silent when it comes before 'R' at the start of a word."
+  },
+  {
+      "questionNo": "Q18.",
+      "question": "What sound does the 'C' make in 'scissors'?",
+      "secondImg":"./images/18.png",
+      "Q_sound": "./sound/scissors.mp3",
+      "options": [
+          { "text": "'S' sound" },
+          { "text": "'K' sound" },
+          { "text": "'Ch' sound" },
+          { "text": "It's silent" }
+      ],
+      "correct": 3,
+      "explanation": "In 'scissors,' 'C' is silent. We pronounce it as 'sizzors.' In 'scissors,' the 'C' after the 'S' and before the 'I' is silent."
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "Choose the word where 'W' is not silent:",
+    "secondImg":"./images/19.png",
+    "options": [
+        { "text": "Wreath" },
+        { "text": "Wrong" },
+        { "text": "Wrap" },
+        { "text": "Wish" }
+    ],
+    "correct": 3,
+    "explanation": "In 'Wish,' we hear the 'W' sound at the beginning. In all the other options (wreath, wrong, wrap), the 'W' is silent because it's followed by 'R.'"
+},
+{
+    "questionNo": "Q20.",
+    "question": "Fill in the blank with the correct spelling: The knight carried a ___. (Display an image of Knight with a sword)",
+    "options": [
+        { "text": "sord" },
+        { "text": "sowd" },
+        { "text": "sword" },
+        { "text": "sward" }
+    ],
+    "correct": 2,
+    "explanation": "'Sword' is the correct spelling. The 'W' is silent, but it's still part of the correct spelling. This is an example of 'W' being silent in the middle of a word."
+}
+]
